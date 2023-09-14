@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Bill August 2023",
+    "month": "2023-08-01",
+    "total": 1455.17,
+    "active_residents": 5,
+    "split_total": 291.03,
+    "created_at": "2023-09-02 05:47:39.218704",
+    "updated_at": "2023-09-02 05:47:39.218704"
+  },
+  {
+    "id": 2,
+    "name": "Bill September 2023",
+    "month": "2023-09-01",
+    "total": 1484.42,
+    "active_residents": 5,
+    "split_total": 296.88,
+    "created_at": "2023-09-02 05:47:39.218704",
+    "updated_at": "2023-09-02 05:47:39.218704"
+  },
+  {
+    "id": 5,
+    "name": "Bill May 2023",
+    "month": "2023-05-01",
+    "total": 1211.4,
+    "active_residents": 5,
+    "split_total": 242.28,
+    "created_at": "2023-09-02 15:10:19.521166",
+    "updated_at": "2023-09-02 15:22:14.149817"
+  },
+  {
+    "id": 3,
+    "name": "Bill July 2023",
+    "month": "2023-07-01",
+    "total": 1498.07,
+    "active_residents": 5,
+    "split_total": 299.61,
+    "created_at": "2023-09-02 15:10:19.521166",
+    "updated_at": "2023-09-02 15:22:14.149817"
+  },
+  {
+    "id": 4,
+    "name": "Bill June 2023",
+    "month": "2023-06-01",
+    "total": 1474.47,
+    "active_residents": 5,
+    "split_total": 294.89,
+    "created_at": "2023-09-02 15:10:19.521166",
+    "updated_at": "2023-09-02 15:22:14.149817"
+  }
+]

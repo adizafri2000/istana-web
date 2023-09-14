@@ -1,0 +1,30 @@
+[
+  {
+    "statement_id": 2,
+    "installment_id": 1,
+    "total": 193.17,
+    "created_at": "2023-09-02 05:53:58.727487",
+    "updated_at": "2023-09-02 05:53:58.727487"
+  },
+  {
+    "statement_id": 1,
+    "installment_id": 1,
+    "total": 193.17,
+    "created_at": "2023-09-02 05:53:58.727487",
+    "updated_at": "2023-09-02 05:53:58.727487"
+  },
+  {
+    "statement_id": 3,
+    "installment_id": 1,
+    "total": 193.17,
+    "created_at": "2023-09-02 15:10:51.885187",
+    "updated_at": "2023-09-02 15:10:51.885187"
+  },
+  {
+    "statement_id": 4,
+    "installment_id": 1,
+    "total": 193.17,
+    "created_at": "2023-09-02 15:10:51.885187",
+    "updated_at": "2023-09-02 15:10:51.885187"
+  }
+]
