@@ -1,0 +1,142 @@
+[
+  {
+    "statement_id": 5,
+    "utility_id": 4,
+    "total": 1000,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:23:59.230333"
+  },
+  {
+    "statement_id": 2,
+    "utility_id": 2,
+    "total": 34.85,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:33.357896"
+  },
+  {
+    "statement_id": 2,
+    "utility_id": 1,
+    "total": 87.85,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:33.357896"
+  },
+  {
+    "statement_id": 2,
+    "utility_id": 4,
+    "total": 1000,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:33.357896"
+  },
+  {
+    "statement_id": 2,
+    "utility_id": 3,
+    "total": 168.55,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:33.357896"
+  },
+  {
+    "statement_id": 3,
+    "utility_id": 3,
+    "total": 168.55,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 1,
+    "utility_id": 1,
+    "total": 66.6,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 3,
+    "utility_id": 2,
+    "total": 34.85,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 4,
+    "utility_id": 1,
+    "total": 61.9,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 4,
+    "utility_id": 3,
+    "total": 168.55,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 3,
+    "utility_id": 4,
+    "total": 1000,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 3,
+    "utility_id": 1,
+    "total": 101.5,
+    "created_at": "2023-09-02 05:53:26.738684",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 5,
+    "utility_id": 3,
+    "total": 168.55,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 5,
+    "utility_id": 1,
+    "total": 36.85,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 1,
+    "utility_id": 2,
+    "total": 26.85,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 1,
+    "utility_id": 4,
+    "total": 1000,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 1,
+    "utility_id": 3,
+    "total": 168.55,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 5,
+    "utility_id": 2,
+    "total": 6,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 4,
+    "utility_id": 2,
+    "total": 50.85,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  },
+  {
+    "statement_id": 4,
+    "utility_id": 4,
+    "total": 1000,
+    "created_at": "2023-09-02 05:54:43.614875",
+    "updated_at": "2023-09-02 15:44:52.977863"
+  }
+]
